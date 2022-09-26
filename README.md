@@ -5,7 +5,7 @@ I'm a scientist with a passion for web development. I'm interested in genetics, 
 ## Favorite Languages:
 - Typescript
 - Python
-- GoLang
+- Go
 - C#
 - SQL
 
